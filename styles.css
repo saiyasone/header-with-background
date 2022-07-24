@@ -75,6 +75,7 @@ nav:hover .logo h2 {
   padding: 14px 30px;
   border-radius: 50px;
   margin-right: 14px;
+  transition: 200ms ease-out;
 }
 .btn:hover {
   border: 1px solid transparent;
