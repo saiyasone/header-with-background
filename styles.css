@@ -20,6 +20,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 20px 8%;
+  transition: 200ms ease-out;
 }
 nav .logo h2 {
   color: #fff;
